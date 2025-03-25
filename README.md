@@ -1,4 +1,7 @@
-**RA5-6 StarStucom **
-En esta practica usamos:
--Swing (interfaz grafica)
--Excepciones (control de errores)
+# RA5-6 StarStucom
+
+## Descripción
+En esta RA usamos:
+
+- **Swing** (interfaz gráfica)
+- **Excepciones** (control de errores)
